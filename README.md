@@ -175,7 +175,7 @@ python -m pytest
 
 Résultat obtenu :
 
-![Tests Week 2](docs/images/test week 2.png)
+![Tests Week 2](docs/images/testweek2.png)
 
 Tous les tests passent avec succès :
 
