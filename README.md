@@ -145,7 +145,7 @@ python -m src.agent --ask "Convertis 25 USD en TND puis ajoute 19% de TVA."
 
 Résultat obtenu :
 
-![Résultat Week 2](docs/images/resultat-week2.png)
+![Résultat Week 2](docs/images/resultatWeek2.png)
 
 Dans cet exemple, l’agent a bien appelé deux outils :
 
@@ -175,7 +175,7 @@ python -m pytest
 
 Résultat obtenu :
 
-![Tests Week 2](docs/images/tests-week2.png)
+![Tests Week 2](docs/images/test week 2.png)
 
 Tous les tests passent avec succès :
 
